@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9329" started-at="2023-01-08T21:05:51 EST" finished-at="2023-01-08T21:06:00 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9329" started-at="2023-01-08T21:05:51 EST" finished-at="2023-01-08T21:06:00 EST">
+      <class name="pageTest.RegisterPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:pageTest.RegisterPageTest@74ad1f1f]" name="setup" is-config="true" duration-ms="5329" started-at="2023-01-08T21:05:51 EST" finished-at="2023-01-08T21:05:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyRegisterTab()[pri:0, instance:pageTest.RegisterPageTest@74ad1f1f]" name="verifyRegisterTab" duration-ms="2579" started-at="2023-01-08T21:05:56 EST" description="Validate the Registration Form" finished-at="2023-01-08T21:05:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterTab -->
+        <test-method status="PASS" signature="submitRegistrationForm()[pri:1, instance:pageTest.RegisterPageTest@74ad1f1f]" name="submitRegistrationForm" duration-ms="917" started-at="2023-01-08T21:05:59 EST" description="Submit the Registration Form" finished-at="2023-01-08T21:06:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitRegistrationForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pageTest.RegisterPageTest@74ad1f1f]" name="teardown" is-config="true" duration-ms="0" started-at="2023-01-08T21:06:00 EST" finished-at="2023-01-08T21:06:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pageTest.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
